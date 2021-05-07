@@ -2,5 +2,6 @@ RENCANA STREAM KULIAH
 - belajar PHP
   * belajar di Codecademy
   * belajar di youtube
+- belajar Laravel
 - belajar Python
 - belajar CSS
