@@ -1,4 +1,0 @@
-RENCANA STREAM KULIAH
-- belajar PHP
-- belajar Python
-- belajar CSS
