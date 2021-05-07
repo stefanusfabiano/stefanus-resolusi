@@ -2,6 +2,9 @@ RENCANA STREAM KULIAH
 - belajar PHP
   * belajar di Codecademy
   * belajar di youtube
+  * belajar di web online lain
 - belajar Laravel
+  ^belajar Model
 - belajar Python
-- belajar CSS
+  ^belajar mengolah data
+
