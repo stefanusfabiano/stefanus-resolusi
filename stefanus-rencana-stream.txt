@@ -4,7 +4,9 @@ RENCANA STREAM KULIAH
   * belajar di youtube
   * belajar di web online lain
 - belajar Laravel
-  ^belajar Model
+   ^belajar view
 - belajar Python
-  ^belajar mengolah data
-
+   ^belajar fungsi
+- belajar CSS
+  ^belajar CSS Layout
+- belajar Javascript
