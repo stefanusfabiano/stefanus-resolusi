@@ -3,5 +3,8 @@ RENCANA STREAM KULIAH
   * belajar di Codecademy
   * belajar di youtube
 - belajar Laravel
+   ^belajar view
 - belajar Python
 - belajar CSS
+  ^belajar CSS Layout
+- belajar Javascript
