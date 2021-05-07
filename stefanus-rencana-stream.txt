@@ -5,6 +5,7 @@ RENCANA STREAM KULIAH
 - belajar Laravel
    ^belajar view
 - belajar Python
+   ^belajar fungsi
 - belajar CSS
   ^belajar CSS Layout
 - belajar Javascript
